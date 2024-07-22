@@ -21,7 +21,7 @@ author_profile : false
 - 알고리즘의 기본 개념이라기 보다 실전적인 풀이 기법으로, 일반적인 알고리즘 교과서에는 등장하지 않음
 - 투 포인터는 그림과 같이 주로 정렬된 배열을 대상으로, 2개의 포인터가 좌우로 자유롭게 움직이며 문제를 풀이하여, 투 포인터라는 이름이 붙었다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/6b8d40ba-5287-42be-84df-56b1c96a2c05/7df19bfa-46f9-46c7-9948-5396cfcd628b/Untitled.png)
+<img width="393" alt="Untitled" src="https://github.com/user-attachments/assets/188d9e22-1a68-4a17-8002-577823d8a873">
 
 ## 시간복잡도
 
