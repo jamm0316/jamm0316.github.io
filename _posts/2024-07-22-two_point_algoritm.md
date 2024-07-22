@@ -32,7 +32,7 @@ author_profile : false
 
 ## 사용예
 
-- [백준_실버4_2003_수들의 합2](https://www.notion.so/4_2003_-2-110e8501ddb8441fb653da1f3624143a?pvs=21)
+- [백준_실버4_2003_수들의 합2](https://jamm0316.github.io/coding_test/baek_joon_2003/)
 
 ---
 
