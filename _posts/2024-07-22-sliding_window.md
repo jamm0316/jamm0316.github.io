@@ -1,3 +1,10 @@
+---
+layout: single
+title:   "투포인터 알고리즘(two_pointer algoritm)"
+categories: Algoritm
+toc: true
+author_profile : false
+---
 
 ## 효과적인 경우
 
