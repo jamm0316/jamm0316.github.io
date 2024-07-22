@@ -32,9 +32,9 @@ author_profile : false
 
 ## 사용예
 
-- [백준_실버4_2003_수들의 합2](https://jamm0316.github.io/coding_test/baek_joon_2003/)
+- [2003_수들의 합2](https://jamm0316.github.io/coding_test/baek_joon_2003/)
 
 ---
 
 - 참고사항
-    - [Sliding Window (슬라이딩 윈도우](https://www.notion.so/Sliding-Window-7d85bf6c85ce4af683eecad93c1218d5?pvs=21))
+    - [Sliding Window (슬라이딩 윈도우](https://jamm0316.github.io/algoritm/sliding_window/)
