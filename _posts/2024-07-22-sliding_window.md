@@ -1,6 +1,6 @@
 ---
 layout: single
-title:   "투포인터 알고리즘(two_pointer algoritm)"
+title:   "슬라이딩 윈도우(sliding window)"
 categories: Algoritm
 toc: true
 author_profile : false
